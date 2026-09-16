@@ -15,7 +15,7 @@ I'm a .NET Software Engineer with **2+ years** of experience developing reliable
 
 I specialize in **C#, .NET Core, ASP.NET, Web API, VB.NET, ADO.NET, and MS SQL Server**, with hands-on experience in SOLID principles, database design, SQL optimization, API integration, and payment gateway implementation.
 
-I'm passionate about writing clean, maintainable code, solving real-world problems, and continuously learning modern technologies.s.
+I'm passionate about writing clean, maintainable code, solving real-world problems, and continuously learning modern technologies.
 
 ## Skill Set 💪
 
@@ -73,10 +73,10 @@ I'm passionate about writing clean, maintainable code, solving real-world proble
 Water Billing and Electricity Billing Applications.
 
 ### 🔹 Payment Gateway Integration
-Secure payment processing API using ASP.NET and SQL Server.
+Secure payment processing API using C#, ASP.NET and MS SQL Server.
 
 ### 🔹 Employee Management System
-Web application built with ASP.NET, Web API, C# and MS SQL Server.
+Web application built with C#, ASP.NET, Web API, C# and MS SQL Server.
 
 ### 🔹 Desktop Application
-Windows desktop application developed using C# and .NET.
+Windows desktop application developed using VB.Net and .NET.
