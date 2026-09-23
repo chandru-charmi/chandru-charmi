@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chandrashekar-b-407838190/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chandrushekhar54@gmail.com"/>](mailto:chandrushekhar54@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/chandru-charmi)
-
+[<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://chandru-charmi.github.io/animated-portfolio/)
 ---
 
 ## About Me 🙋
